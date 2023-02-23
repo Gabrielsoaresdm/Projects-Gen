@@ -1,0 +1,49 @@
+.home_container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2em;
+}
+
+.letter {
+    margin-top: 6rem;
+
+
+}
+
+.home_container p {
+    margin-top: 2rem;
+    width: 463px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 4px;
+    color: #005AD5;
+    
+}
+
+.home_container h1 {
+    font-size: 2.5em;
+    color: #005AD5;
+}
+
+.robo {
+    width: 27rem;
+    margin-left: 10rem;
+
+}
+
+.bbt {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 11rem;
+    margin-top: 1em;
+    font-weight: 580;
+
+}
+
+.btn:hover {
+    color: #ffbb33;
+}

@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #005AD5;
+    padding: 1em;
+    border-bottom: 2px solid #C4C4C4;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.item{
+    margin-right: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+    
+}
+.item a:hover{
+    color: #ffbb33
+}
+.img{
+    width: 7rem;
+}
